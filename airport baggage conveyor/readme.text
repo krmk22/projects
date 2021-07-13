@@ -1,0 +1,5 @@
+1. Airport baggage conveyor system is based on PIC16f877a microcontroller
+2. The project contains mp3module, conveyor, gsm module, ir sensor and keypad
+3. The long awaiting queue for colleting baggage will resolved
+4. This project will identify your back and make a voice alert to the particular person.
+5. If incase he failed to collect with in a timelimit baggage will be removed from conveyor.
