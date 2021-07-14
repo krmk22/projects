@@ -17,9 +17,9 @@
 #define SecurityConfig
 #define WiFiSSID    "ESP8266"
 #define WiFiPass    "PIC16f877a"
-#define MailID      "194061arsadh.g@gmail.com"
-#define PassWord    "PIC16f877a"
-#define Token       "BBFF-trOdTf3QcW4VveTjgSIxu8VpXyDEMe"
+#define MailID      ""
+#define PassWord    ""
+#define Token       ""
 #endif
 
 #ifndef VariableConfig
