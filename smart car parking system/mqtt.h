@@ -9,8 +9,8 @@
 
 #ifndef SecureConfig
 #define SecureConfig
-#define ClientName   "VankatOVenkat"
-#define ClientID     "BBFF-l8L5Y2Dpcam8diQYNTwMFiOxxmm2m2"
+#define ClientName   ""
+#define ClientID     ""
 #define Topic        "/v1.6/devices/"
 #endif
 
